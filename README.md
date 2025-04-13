@@ -6,6 +6,8 @@ A smart and culturally-aware meal planning app designed to **automate your cooki
 
 Built using **Flutter**, powered by **Gemini AI**, and future-ready with **Firebase** and **Swiggy/Zomato integration**.
 
+note: the submitted mvp is a functional yet not aesthetically pleasing one, a dormant asethetically pleasing one is getting ready (https://studio.firebase.google.com/grocify7-5614872https://studio.firebase.google.com/grocify7-5614872)
+
 ---
 
 ## 🚀 Features
